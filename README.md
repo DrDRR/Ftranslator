@@ -1,2 +1,5 @@
 # Ftranslator
-翻译工具
+
+ver 0.35
+
+Powered by Python
